@@ -1,6 +1,4 @@
-### Hey there every1👋
-
-![alt text](https://github.com/ShivamHande/ShivamHande/blob/master/intro.png?raw=true)
+![alt text](https://github.com/ShivamHande/ShivamHande/blob/master/hey.png?raw=true)
 
 <!--
 **ShivamHande/ShivamHande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

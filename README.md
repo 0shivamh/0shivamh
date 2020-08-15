@@ -1,5 +1,6 @@
 ### Hey there every1👋
 
+![alt text](https://github.com/ShivamHande/ShivamHande/blob/master/intro.png?raw=true)
 
  I'm Shivam. I mainly write code for web applications and desktop apps. I am a Youtuber And Blogger, where I share my expertise on programming, also from a couple of days 🌱 I’m currently learning Android Development, Machine Learning, Blockchain, and many more interesting thing...
 

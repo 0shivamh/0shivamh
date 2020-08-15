@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there every1👋
+
+
+ I'm Shivam. I mainly write code for web applications and desktop apps. I am a Youtuber And Blogger, where I share my expertise on programming, also from a couple of days 🌱 I’m currently learning Android Development, Machine Learning, Blockchain, and many more interesting thing...
+
+
+[![YouTube Badge](https://image.flaticon.com/icons/svg/145/145807.svg)](https://www.youtube.com/channel/UC0VEXsNow5cAJp9H2owWc-w)
+[![Linkedin Badge](https://image.flaticon.com/icons/svg/145/145807.svg)](https://www.linkedin.com/in/shivam-h-1856221a4/)]
+[![Website Badge](https://image.flaticon.com/icons/svg/2920/2920100.svg)](https://shivamhande.cwipedia.in/)
+[![Instagram Badge](https://image.flaticon.com/icons/svg/2111/2111463.svg)](https://www.instagram.com/shiv.am.h/)
+[![Twitter Badge](https://image.flaticon.com/icons/svg/145/145812.svg)](https://twitter.com/ShivamHande/)
 
 <!--
 **ShivamHande/ShivamHande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

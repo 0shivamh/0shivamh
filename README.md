@@ -10,6 +10,4 @@
 <a href="https://instagram.com/shiv.am.h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiv.am.h" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivamh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivamh" height="30" width="40" /></a>
 </p>
-<p align="center">
-![lottieanim](https://1.bp.blogspot.com/-M7vkkulyYVQ/X99a0vKej3I/AAAAAAAAIRU/72wctXKSSpEpinAVisZ4a9r74PXBkftLACLcBGAsYHQ/s320/anim.gif?raw=true)
-</p>
+![](https://1.bp.blogspot.com/-M7vkkulyYVQ/X99a0vKej3I/AAAAAAAAIRU/72wctXKSSpEpinAVisZ4a9r74PXBkftLACLcBGAsYHQ/s320/anim.gif)

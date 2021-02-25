@@ -8,12 +8,7 @@
     font-family: 'Sansita Swashed', cursive;
     color: white;
 }
-#logo{
-    border-radius: 450px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border: solid 1px #9424F0;
-    
-}
+
 .card{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

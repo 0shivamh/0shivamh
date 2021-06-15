@@ -14,7 +14,7 @@ import sql from "../Files/mysql.png"
 import php from "../Files/php.png"
 import db from "../Files/db.png"
 import linux from "../Files/linux.png"
-
+import cv from "../Files/ShivamH_Resume-1.pdf"
 
 const Resume=()=>{
 
@@ -214,7 +214,7 @@ const Resume=()=>{
            
 
             <div className="container overflow-hidden">
-            <p className="display-5 bittext"><a href="">Resume</a></p>
+            <p className="display-6 bittext"><a href={cv}>Download Resume</a></p>
                 <div className="row gx-5">    
                     <div className="col">
                     </div>
@@ -243,10 +243,6 @@ const Resume=()=>{
                     </div>
                 </div>
             </div>
-
-
-
-
 
 
 

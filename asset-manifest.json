@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aishivam/static/css/main.3845cc69.chunk.css",
+    "main.js": "/aishivam/static/js/main.e4445360.chunk.js",
+    "main.js.map": "/aishivam/static/js/main.e4445360.chunk.js.map",
+    "runtime-main.js": "/aishivam/static/js/runtime-main.3268bce3.js",
+    "runtime-main.js.map": "/aishivam/static/js/runtime-main.3268bce3.js.map",
+    "static/js/2.40087bf1.chunk.js": "/aishivam/static/js/2.40087bf1.chunk.js",
+    "static/js/2.40087bf1.chunk.js.map": "/aishivam/static/js/2.40087bf1.chunk.js.map",
+    "index.html": "/aishivam/index.html",
+    "static/css/main.3845cc69.chunk.css.map": "/aishivam/static/css/main.3845cc69.chunk.css.map",
+    "static/js/2.40087bf1.chunk.js.LICENSE.txt": "/aishivam/static/js/2.40087bf1.chunk.js.LICENSE.txt",
+    "static/media/ShivamH_Resume-1.75764359.pdf": "/aishivam/static/media/ShivamH_Resume-1.75764359.pdf",
+    "static/media/boot.1b4b0f96.png": "/aishivam/static/media/boot.1b4b0f96.png",
+    "static/media/cpp.c0a0d2fd.png": "/aishivam/static/media/cpp.c0a0d2fd.png",
+    "static/media/db.ffd65212.png": "/aishivam/static/media/db.ffd65212.png",
+    "static/media/js.ab65e723.png": "/aishivam/static/media/js.ab65e723.png",
+    "static/media/mine.dea2e753.jpg": "/aishivam/static/media/mine.dea2e753.jpg",
+    "static/media/react.d6986994.png": "/aishivam/static/media/react.d6986994.png",
+    "static/media/tenor.a1ca9acf.gif": "/aishivam/static/media/tenor.a1ca9acf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3268bce3.js",
+    "static/js/2.40087bf1.chunk.js",
+    "static/css/main.3845cc69.chunk.css",
+    "static/js/main.e4445360.chunk.js"
+  ]
+}

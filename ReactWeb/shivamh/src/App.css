@@ -1,0 +1,76 @@
+.IntroText{
+    text-align: center;
+}
+.circle{
+    border-radius: 200px;
+    margin: 5px;
+}
+@media only screen and (min-width: 800px) {
+    .vertical-center {
+        min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+        min-height: 100vh; /* These two lines are counted as one :-)       */
+      
+        display: flex;
+        align-items: center;
+      }
+  }
+  @media only screen and (max-width: 800px) {
+    .vertical-center {
+        min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+        min-height: 100vh; /* These two lines are counted as one :-)       */
+      
+        display: flex;
+        align-items: center;
+      }
+      .IntroText{
+          margin-top: 50px;
+      }
+  }
+.footersoc{
+    word-spacing: 10px;
+
+}
+#devso{
+    padding: 15px;
+    text-decoration: none;
+    color: #272424;
+    font-size: 20px;
+    position: relative;
+    top: 0;
+    transition: top ease 0.3s;
+    }
+#devso:hover{
+    color: gray;
+    top: -5px;
+    transition: all 0.15s;
+}
+.img-hi{
+    height: 30px;
+    width: 30px;
+}
+/* .progress{
+    margin: 10px;
+} */
+.p1{
+    width: 80%;
+}
+.p2{
+    width: 60%;
+}
+.p3{
+    width: 40%;
+}
+.middle{
+    display: flex;     justify-content: center;     align-items: center;
+}
+.bittext{
+    margin-top: 30px;
+    font-weight: bold;
+}
+.icons{
+    height: 32px;
+    width: 32px;
+}
+.intern{
+    margin: 20px;
+}

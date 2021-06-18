@@ -14,7 +14,7 @@ import sql from "../Files/mysql.png"
 import php from "../Files/php.png"
 import db from "../Files/db.png"
 import linux from "../Files/linux.png"
-import cv from "../Files/ShivamH_Resume-1.pdf"
+import cv from "../Files/Resume.pdf"
 
 const Resume=()=>{
 
@@ -162,7 +162,7 @@ const Resume=()=>{
             <p className="display-5 bittext">Experience</p>
                 <div className="row gx-5">    
                     <div className="col intern">
-                    <h5 className="card-title ">Web Developer Inern</h5>
+                    <h5 className="card-title ">Web Developer Intern</h5>
                     <a href="https://rexoraedulabs.com/"><p>Rexora EduLabs Pvt. Ltd.</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">Apr-21 May-21</h6>
                     <ul>
@@ -173,7 +173,7 @@ const Resume=()=>{
                 </div>
                 <div className="row gx-5">    
                 <div className="col intern">
-                    <h5 className="card-title ">Mobile Application Development Inern</h5>
+                    <h5 className="card-title ">Mobile Application Development Intern</h5>
                     <a href="https://thesparksfoundationsingapore.org/"><p>The Sparks Foundation</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">June-21 Present</h6>
                     <ul>

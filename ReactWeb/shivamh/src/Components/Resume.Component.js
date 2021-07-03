@@ -166,7 +166,7 @@ const Resume=()=>{
                     <a href="https://rexoraedulabs.com/"><p>Rexora EduLabs Pvt. Ltd.</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">Apr-21 May-21</h6>
                     <ul>
-                        <li>Learned and build project in React js with firebase auth</li>
+                        <li>Learned and built project in React js with firebase auth</li>
                         <li>Technology Used: HTML,CSS,Bootstrap,Reactjs,Firebase</li>
                     </ul>  
                     </div>

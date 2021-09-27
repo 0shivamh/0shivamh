@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import shivamh from '../Files/mine.jpg'
+// import shivamh from '../Files/mine.jpg'
 // import Typewriter from 'typewriter-effect/dist/core';
 import hi from "../Files/tenor.gif"
 import py from "../Files/python.png"
@@ -14,7 +14,9 @@ import sql from "../Files/mysql.png"
 import php from "../Files/php.png"
 import db from "../Files/db.png"
 import linux from "../Files/linux.png"
-import cv from "../Files/Resume.pdf"
+import cv from "../Files/0ShivamH_Resume.pdf"
+import Typewriter from 'typewriter-effect';
+
 
 const Resume=()=>{
 
@@ -33,13 +35,24 @@ const Resume=()=>{
     //     // .deleteChars(10)
     //     .pauseFor(1000)
         // .start();
-
+    
     return(
         <>
 
             <div className="Container">
             <div className="row IntroText vertical-center">
-                <div className="col-sm ">
+              <div>
+              <p className="h1">Shivam Hande</p>
+                    <p className="display-6" >
+                    <Typewriter
+                    options={{
+                        strings: ['Hello folks! I am an Open-Source enthusiast','& passionate about Computer networks and Security', 'byte by byte empowering student developers communities'],
+                        autoStart: true,
+                        loop: true,
+                    }}
+                    /></p>
+              </div>
+                {/* <div className="col-sm ">
                     <p className="display-5">Shivam Hande</p>
                     <p className="display-8" >byte by byte empowering student developers communities</p>
 
@@ -47,7 +60,7 @@ const Resume=()=>{
                 <div className="col-sm">
                 <img src={shivamh} className="img-fluid circle shadow" alt="Shivam Hande"/>
 
-                </div>
+                </div> */}
             </div>
 
 
@@ -56,14 +69,14 @@ const Resume=()=>{
                     <p className="display-5 bittext">A bit about me</p>
                     <div className="col-sm ">
                         <p className="display-6 ">Hello there <img src={hi} className="img-hi " alt="Hi Emoji"/></p>
-                        <p>I’m an Open-Source enthusiast & passionate about Web Dev, Mobile App Dev, Cloud, and learning new things.</p>
+                        <p>I’m an Open-Source enthusiast & passionate about Computer networks and Security</p>
                             <div className="handler">
                             <div className="footersoc ">
                                 <a aria-hidden="true" className="fa fa-envelope" href="mailto:shivamhande0000@gmail.com" id="devso" rel="noreferrer" target="_blank" title="mail us"></a>
                                 <a aria-hidden="true" className="fa fa-instagram" href="http://instagram.com/shiv.am.h" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-twitter" href="https://twitter.com/ShivamHande" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-linkedin" href="https://www.linkedin.com/in/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
-                                <a aria-hidden="true" className="fa fa-github" href="https://github.com/aishivam" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
+                                <a aria-hidden="true" className="fa fa-github" href="https://github.com/0shivamh" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
                                 <a aria-hidden="true" className="fa fa-youtube-play" href="https://www.youtube.com/channel/UC0VEXsNow5cAJp9H2owWc-w" id="devso" rel="noreferrer" target="_blank" title="follow us"></a></div>
                                 <hr/>
                             </div>
@@ -162,6 +175,37 @@ const Resume=()=>{
             <p className="display-5 bittext">Experience</p>
                 <div className="row gx-5">    
                     <div className="col intern">
+                    <h5 className="card-title ">Penetration Tester Intern</h5>
+                    <a href="https://virtuallytesting.com/"><p>VTF, Los Angeles, CA</p></a>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Present</h6>
+                    <ul>
+                        <li>Learning and Contributing in team</li>
+                    </ul>  
+                    </div>
+                </div>
+                <div className="row gx-5">    
+                    <div className="col intern">
+                    <h5 className="card-title ">Contributor</h5>
+                    <a href="https://gwoc.girlscript.tech/"><p>GirlScript Winter of Code</p></a>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Present</h6>
+                    <ul>
+                        <li>Contributing to Cyber Security </li>
+                    </ul>  
+                    </div>
+                </div>
+                <div className="row gx-5">    
+                    <div className="col intern">
+                    <h5 className="card-title ">Software Engineer Intern</h5>
+                    <a href="https://ineuron.ai/"><p>ineuron.ai</p></a>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 Oct-21</h6>
+                    <ul>
+                        <li>Learned and built software utility based project</li>
+                        <li>Developed Image to Text Desktop App in Python</li>
+                    </ul>  
+                    </div>
+                </div>
+                <div className="row gx-5">    
+                    <div className="col intern">
                     <h5 className="card-title ">Web Developer Intern</h5>
                     <a href="https://rexoraedulabs.com/"><p>Rexora EduLabs Pvt. Ltd.</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">Apr-21 May-21</h6>
@@ -208,6 +252,13 @@ const Resume=()=>{
                         <li>I have Developed cwipedia front end using HTML, CSS, js, and bootstrap and I'm a regular contributor. also, I'm empowering the community of Diploma engineering students through cwipedia</li>
                     </ul>  
                 </div>
+                <div className="col intern">
+                    <h5 className="card-title ">Internshala ISP</h5>
+                    <a href="https://www.cwipedia.in/"><p>cwipedia.in</p></a>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep 21 - present</h6>
+                    <ul>
+                    </ul>  
+                </div>
                 </div>
             </div>
 
@@ -236,7 +287,7 @@ const Resume=()=>{
                                 <a aria-hidden="true" className="fa fa-instagram" href="http://instagram.com/shiv.am.h" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-twitter" href="https://twitter.com/ShivamHande" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-linkedin" href="https://www.linkedin.com/in/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
-                                <a aria-hidden="true" className="fa fa-github" href="https://github.com/aishivam" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
+                                <a aria-hidden="true" className="fa fa-github" href="https://github.com/0shivamh" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
                                 <a aria-hidden="true" className="fa fa-youtube-play" href="https://www.youtube.com/channel/UC0VEXsNow5cAJp9H2owWc-w" id="devso" rel="noreferrer" target="_blank" title="follow us"></a></div>
                                 <hr/>
                             </div>
@@ -244,10 +295,10 @@ const Resume=()=>{
                 </div>
             </div>
 
-
-
-
             </div>
+
+
+            
   
         
         </>

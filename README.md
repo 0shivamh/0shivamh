@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm ѕнιναм</h1>
-<h3 align="center">𝖇𝖞𝖙𝖊 𝖇𝖞 𝖇𝖞𝖙𝖊 𝖊𝖒𝖕𝖔𝖜𝖊𝖗𝖎𝖓𝖌 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗𝖘 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖈𝖔𝖒𝖒𝖚𝖓𝖎𝖙𝖞</h3>
+<div align="center">
+![intro](https://user-images.githubusercontent.com/50539402/134978784-248cecbe-05e6-4206-8329-36127821addd.gif)
 
-- 🔭 I’m currently working on **Image to Text**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

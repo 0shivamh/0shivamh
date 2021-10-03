@@ -1,5 +1,7 @@
 <div align="center">
   ![Demo](https://user-images.githubusercontent.com/50539402/134978784-248cecbe-05e6-4206-8329-36127821addd.gif)
+  
+  ![](http://i.imgur.com/OUkLi.gif)
 </div>
 
 <h3 align="left">Connect with me:</h3>

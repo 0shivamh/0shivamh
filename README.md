@@ -1,5 +1,5 @@
 <div align="center">
-    ![](https://github.com/cwipedia-in/s.db/blob/main/db.gif)
+    ![](https://server.cwipedia.in/db.gif)
 </div>
 
 <h3 align="left">Connect with me:</h3>

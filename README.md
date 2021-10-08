@@ -1,5 +1,4 @@
 <div align="center">
- ![pic](https://user-images.githubusercontent.com/50539402/136612960-79788a09-fc93-40c3-b238-c3cbf29d70b6.png)
 </div>
 
 <h3 align="left">Connect with me:</h3>

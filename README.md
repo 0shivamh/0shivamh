@@ -1,6 +1,5 @@
 <div align="center">
- ![done](https://user-images.githubusercontent.com/50539402/136612241-ff42f90f-f467-4182-a0bc-b11fa4253ced.gif)
-
+ ![pic](https://user-images.githubusercontent.com/50539402/136612960-79788a09-fc93-40c3-b238-c3cbf29d70b6.png)
 </div>
 
 <h3 align="left">Connect with me:</h3>

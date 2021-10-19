@@ -16,6 +16,9 @@ import db from "../Files/db.png"
 import linux from "../Files/linux.png"
 import cv from "../Files/0ShivamH_Resume.pdf"
 import Typewriter from 'typewriter-effect';
+import express from "../Files/express-logo.png";
+import nodejs from "../Files/nodejs.png";
+
 
 
 const Resume=()=>{
@@ -35,11 +38,14 @@ const Resume=()=>{
     //     // .deleteChars(10)
     //     .pauseFor(1000)
         // .start();
-    
+
+   
     return(
         <>
-
+     
+        
             <div className="Container">
+
             <div className="row IntroText vertical-center">
               <div>
               <p className="h1">Shivam Hande</p>
@@ -63,7 +69,9 @@ const Resume=()=>{
                 </div> */}
             </div>
 
+ 
 
+      
             <div className="container overflow-hidden">
                 <div className="row gx-5 middle">
                     <p className="display-5 bittext">A bit about me</p>
@@ -77,6 +85,7 @@ const Resume=()=>{
                                 <a aria-hidden="true" className="fa fa-twitter" href="https://twitter.com/ShivamHande" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-linkedin" href="https://www.linkedin.com/in/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-github" href="https://github.com/0shivamh" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
+                                <a aria-hidden="true" className="fa fa-stack-overflow" href="https://stackoverflow.com/users/11779310/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-youtube-play" href="https://www.youtube.com/channel/UC0VEXsNow5cAJp9H2owWc-w" id="devso" rel="noreferrer" target="_blank" title="follow us"></a></div>
                                 <hr/>
                             </div>
@@ -103,7 +112,6 @@ const Resume=()=>{
                 </div>
             </div>
 
-
             <div className="container overflow-hidden">
             <p className="display-5 bittext">Eduaction</p>
                 <div className="row gx-5">    
@@ -118,6 +126,8 @@ const Resume=()=>{
                 </div>
                 </div>
             </div>
+
+         
 
 
             <div className="container overflow-hidden">
@@ -157,6 +167,12 @@ const Resume=()=>{
                             <div className="col">
                             <div className="stack"><img className="icons" src={db}/> MoongoDB</div>
                             </div>
+                            <div className="col">
+                            <div className="stack"><img className="icons" src={express}/> ExpressJs</div>
+                            </div>
+                            <div className="col">
+                            <div className="stack"><img className="icons" src={nodejs}/> nodeJs</div>
+                            </div>
                             <div className="stack"><img className="icons" src={linux}/> Linux</div>
                             <div className="col">
                             </div>
@@ -179,7 +195,7 @@ const Resume=()=>{
                     <a href="https://virtuallytesting.com/"><p>VTF, Los Angeles, CA</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Present</h6>
                     <ul>
-                        <li>Learning and Contributing in team</li>
+                        <li>Exploring Cyber Security concepts</li>
                     </ul>  
                     </div>
                 </div>
@@ -249,13 +265,13 @@ const Resume=()=>{
                     <a href="https://www.cwipedia.in/"><p>cwipedia.in</p></a>
                     <h6 className="card-subtitle mb-2 text-muted">2018 - present</h6>
                     <ul>
-                        <li>I have Developed cwipedia front end using HTML, CSS, js, and bootstrap and I'm a regular contributor. also, I'm empowering the community of Diploma engineering students through cwipedia</li>
+                       
                     </ul>  
                 </div>
                 <div className="col intern">
                     <h5 className="card-title ">Internshala ISP</h5>
-                    <a href="https://www.cwipedia.in/"><p>cwipedia.in</p></a>
-                    <h6 className="card-subtitle mb-2 text-muted">Sep 21 - present</h6>
+                    {/* <a href="https://www.cwipedia.in/"><p>cwipedia.in</p></a> */}
+                    <h6 className="card-subtitle mb-2 text-muted">Sep 21 - Oct 21</h6>
                     <ul>
                     </ul>  
                 </div>
@@ -288,6 +304,7 @@ const Resume=()=>{
                                 <a aria-hidden="true" className="fa fa-twitter" href="https://twitter.com/ShivamHande" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-linkedin" href="https://www.linkedin.com/in/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-github" href="https://github.com/0shivamh" id="devso" rel="noreferrer" target="_blank" title="Join group"></a>
+                                <a aria-hidden="true" className="fa fa-stack-overflow" href="https://stackoverflow.com/users/11779310/shivamh" id="devso" rel="noreferrer" target="_blank" title="follow us"></a>
                                 <a aria-hidden="true" className="fa fa-youtube-play" href="https://www.youtube.com/channel/UC0VEXsNow5cAJp9H2owWc-w" id="devso" rel="noreferrer" target="_blank" title="follow us"></a></div>
                                 <hr/>
                             </div>

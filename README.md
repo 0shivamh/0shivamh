@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm ѕнιναм</h1>
-<h3 align="center">𝖇𝖞𝖙𝖊 𝖇𝖞 𝖇𝖞𝖙𝖊 𝖊𝖒𝖕𝖔𝖜𝖊𝖗𝖎𝖓𝖌 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗𝖘 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖈𝖔𝖒𝖒𝖚𝖓𝖎𝖙𝖞</h3>
-
-- 🔭 I’m currently working on **Image to Text**
+<div align="center">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

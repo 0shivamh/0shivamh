@@ -193,7 +193,7 @@ const Resume=()=>{
                     <div className="col intern">
                     <h5 className="card-title ">Penetration Tester Intern</h5>
                     <a href="https://virtuallytesting.com/"><p>VTF, Los Angeles, CA</p></a>
-                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Present</h6>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Dec-21</h6>
                     <ul>
                         <li>Exploring Cyber Security concepts</li>
                     </ul>  
@@ -203,13 +203,13 @@ const Resume=()=>{
                     <div className="col intern">
                     <h5 className="card-title ">Contributor</h5>
                     <a href="https://gwoc.girlscript.tech/"><p>GirlScript Winter of Code</p></a>
-                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Present</h6>
+                    <h6 className="card-subtitle mb-2 text-muted">Sep-21 to Dec-21</h6>
                     <ul>
                         <li>Contributing to Cyber Security </li>
                     </ul>  
                     </div>
                 </div>
-                <div className="row gx-5">    
+                {/* <div className="row gx-5">    
                     <div className="col intern">
                     <h5 className="card-title ">Software Engineer Intern</h5>
                     <a href="https://ineuron.ai/"><p>ineuron.ai</p></a>
@@ -219,7 +219,7 @@ const Resume=()=>{
                         <li>Developed Image to Text Desktop App in Python</li>
                     </ul>  
                     </div>
-                </div>
+                </div> */}
                 <div className="row gx-5">    
                     <div className="col intern">
                     <h5 className="card-title ">Web Developer Intern</h5>
